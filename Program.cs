@@ -6,7 +6,7 @@ namespace GoogleHashCode2019
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vamos Hulio");
+            Console.WriteLine("Vamos Hulio sharp");
         }
     }
 }
